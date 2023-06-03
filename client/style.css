@@ -1,0 +1,11 @@
+.baffled { 
+    color: peru
+}
+
+#guess-group {
+    padding-left: 65vw;
+}
+
+#guessinput {
+    max-width: 17vw;
+}
